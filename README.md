@@ -3,7 +3,7 @@
 ## Description
 Implementation of the solutions to the 2022 ICPC problems
 
-## Main Learnings
+## Main Learnings
 * Teamwork
 * Problem Solving
 * UnderPressure Working
